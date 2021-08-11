@@ -1,2 +1,23 @@
-# Controle-de-aprendizado-everis-new-talents-java
-Repositório para o controle do que foi aprendido durante o bootcamp da Everis
+# Controle de aprendizado do BOOTCAMP da Everis New Talent - JAVA
+- [x] Lógica de Programação Essencial
+- [x] Aprenda o que são Estrutura de Dados e Algoritmos
+- [x] Introdução ao GIt e ao Github
+- [x] SQL SERVER - Criando suas Primeiras Consultas
+- [x] Criando seu Primeiro Repositorio no Github Para Compartilhar seu Progresso
+- [ ] Dominando IDEs JAVA
+- [x] Desenvolvimento básico em JAVA
+- [ ] Introdução a orientação a objetos com Java
+- [ ] Estrutura de dados em Java
+- [ ] Primeiros passos em Java
+- [ ] Fundamentos de Arquitetura de Sistemas
+- [ ] Arquitetura de Sistemas Avançado
+- [x] Introdução ao framework Spring Boot
+- [x] Trabalhando com Banco de Dados utilizando JDBC e JPA
+- [x] Microsserviçoes em Spring Cloud com Java
+- [x] Desenvolvento um sistema de Gerenciamento de Pessoas em API Rest com Spring Boot
+- [ ] Desafios Matemáticos em JAVA
+- [ ] Introdução a Qualidade de Software
+- [ ] Aprenda a aplicar teste com Java
+- [ ] Introdução ao Junit 5
+- [ ] Desenvolvimento de testes unitários para validar uma API Rest de Gerenciamento estoques de cerveja
+- [ ] Resolvendo Desafios em Java
