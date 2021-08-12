@@ -4,7 +4,7 @@
 - [x] Introdução ao GIt e ao Github
 - [x] SQL SERVER - Criando suas Primeiras Consultas
 - [x] Criando seu Primeiro Repositorio no Github Para Compartilhar seu Progresso
-- [ ] Dominando IDEs JAVA
+- [x] Dominando IDEs JAVA
 - [x] Desenvolvimento básico em JAVA
 - [ ] Introdução a orientação a objetos com Java
 - [ ] Estrutura de dados em Java
